@@ -37,8 +37,6 @@ Casimon zaman zaman erişim engellemelerine uğrayabilir. Bu nedenle en güncel 
 
 ## 📱 Bizi Takip Et:
 - Web: [casimonkayit.com](https://casimonkayit.com)  
-- Telegram: [@CasimonDestek](#) *(isteğe bağlı)*  
-- Instagram: [@CasimonResmi](#) *(isteğe bağlı)*  
 
 ---
 
